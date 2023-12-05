@@ -8,9 +8,11 @@ title Simple Calculator by Batchproducts
 set team=Team:Batchproducts
 set about=This is a simple calculator made by Batchproducts
 set error=enter a valid operator
+set version=Version: 1.1
 echo  %about%
 echo  Thank you for chosing us.
 echo  %team%
+echo %version%
 REM The operators
 :main
 start
