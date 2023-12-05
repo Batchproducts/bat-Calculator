@@ -4,12 +4,11 @@ echo  %TIME%
 echo  %DATE%
 color a
 title Simple Calculator
-set coder=Coder:Anonspider
-set team=Team:TermuxHackz Society
-set about=This is a simple calculator made by Spider Anongreyhat
+set team=Team:Batchproducts
+set about=This is a simple calculator made by Batchproducts
 set error=enter a valid operator
 echo  %about%
-echo  %coder%
+echo  Thank you for chosing us.
 echo  %team%
 REM The operators
 :main
