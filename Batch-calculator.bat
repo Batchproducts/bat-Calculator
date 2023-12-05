@@ -14,10 +14,10 @@ echo  %team%
 REM The operators
 :main
 start
-echo "[1]:+"
-echo "[2]:-
-echo "[3]:/
-echo "[4]:*
+echo [1]:+
+echo [2]:-
+echo [3]:/
+echo [4]:*
 set /p choice=Choose an operator
 if errorlevel 1 goto :plus
 if errorlevel 2 goto :minus
