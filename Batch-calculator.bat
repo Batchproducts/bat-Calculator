@@ -4,7 +4,7 @@ cls
 echo  %TIME%
 echo  %DATE%
 color a
-title Simple Calculator
+title Simple Calculator by Batchproducts
 set team=Team:Batchproducts
 set about=This is a simple calculator made by Batchproducts
 set error=enter a valid operator
