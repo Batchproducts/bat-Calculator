@@ -5,10 +5,10 @@
 Supported versions of Batch
 | Version         |     Supported      |
 | ----------------|--------------------|
-| 1.0             | (extended)         |
+| 1.0             | support extended   |
 | 1.1             | supported          |
-| 0.0             |                    |
-| 1.1.1           |                    |
+|                 |                    |
+| 1.1.1           | in development     |
 
 ## Reporting a Vulnerability
 
