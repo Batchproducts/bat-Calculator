@@ -1,4 +1,4 @@
-Copyright (c) 2023 Batchproducts
+REM Copyright (c) 2023 Batchproducts
 @echo off
 cls
 echo  %TIME%
